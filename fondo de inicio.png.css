@@ -1,0 +1,13 @@
+tr th img {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body {
+    background-image: url(fondo%20de%20inicio.png);
+    background-repeat: no-repeat;
+    min-height: 100px;
+    background-size: 1220px 730px;
+    background-attachment: fixed;
+    background-position: center center;
+}
